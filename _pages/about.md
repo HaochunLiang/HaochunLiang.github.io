@@ -39,6 +39,7 @@ I am a Ph.D. student in the School of Computer Science and Engineering at Northe
 </div>
 </div> -->
 
+- [Timing Analysis of Cause-Effect Chains for External Events with Finite Validity Intervals](https://link.springer.com/chapter/10.1007/978-981-96-0602-3_15), Xiantong Luo, **Haochun Liang**, Yue Tang, Xu Jiang, Wang Yi  **(SETTA 2024)**
 - [Modeling and Analysis of Inter-Process Communication Delay in ROS 2](https://ieeexplore.ieee.org/abstract/document/10405931), Xiantong Luo, Xu Jiang, Nan Guan, **Haochun Liang**, Songran Liu, Wang Yi  **(RTSS 2023)**
 - [Response Time Analysis and Optimization of DAG Tasks Exploiting Mutually Exclusive Execution](https://ieeexplore.ieee.org/abstract/document/10247927), **Haochun Liang**, Xu Jiang, Nan Guan, Nan Guan, Qingqiang He, Wang Yi  **(DAC 2023)**
 - [Scheduling parallel real-time tasks on virtual processors](https://ieeexplore.ieee.org/abstract/document/9914671), Xu Jiang, **Haochun Liang**, Nan Guan, Yue Tang, Lei Qiao, Yi Wang  **(TPDS 2022)**

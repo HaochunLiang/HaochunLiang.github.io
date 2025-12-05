@@ -39,7 +39,7 @@ I am a Ph.D. student in the School of Computer Science and Engineering at Northe
 </div>
 </div> -->
 
-- [New Scheduling Algorithm and Analysis for Partitioned Periodic DAG Tasks on Multiprocessors]([https://link.springer.com/chapter/10.1007/978-981-96-0602-3_15](https://www.computer.org/csdl/journal/td/5555/01/11169502/2a5vkhbX0w8)), **Haochun Liang**, Xu Jiang, Junyi Liu, Xiantong Luo, Songran Liu, Nan Guan, Wang Yi  **(TPDS 2025)**
+- [New Scheduling Algorithm and Analysis for Partitioned Periodic DAG Tasks on Multiprocessors](https://ieeexplore.ieee.org/document/11169502/), **Haochun Liang**, Xu Jiang, Junyi Liu, Xiantong Luo, Songran Liu, Nan Guan, Wang Yi  **(TPDS 2025)**
 - [Timing Analysis of Cause-Effect Chains for External Events with Finite Validity Intervals](https://link.springer.com/chapter/10.1007/978-981-96-0602-3_15), Xiantong Luo, **Haochun Liang**, Yue Tang, Xu Jiang, Wang Yi  **(SETTA 2024)**
 - [Modeling and Analysis of Inter-Process Communication Delay in ROS 2](https://ieeexplore.ieee.org/abstract/document/10405931), Xiantong Luo, Xu Jiang, Nan Guan, **Haochun Liang**, Songran Liu, Wang Yi  **(RTSS 2023)**
 - [Response Time Analysis and Optimization of DAG Tasks Exploiting Mutually Exclusive Execution](https://ieeexplore.ieee.org/abstract/document/10247927), **Haochun Liang**, Xu Jiang, Nan Guan, Qingqiang He, Wang Yi  **(DAC 2023)**
